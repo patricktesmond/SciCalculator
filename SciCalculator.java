@@ -5,7 +5,7 @@ public class SciCalculator
 {
     public static void main(String[] args)
     {
-        double firstNumb = 0.0;
+        double firstNumb = 0.0; //NEW COMMENT
         double secondNumb = 0.0;
         double result = 0.0;
         int menuOption=15;
